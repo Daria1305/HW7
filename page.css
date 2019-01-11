@@ -1,0 +1,21 @@
+main {
+	display: block;
+}
+
+body {
+	font-family: sans-serif;;
+	width: 90%;
+	padding: 0;
+  border: 0;
+    background-color: #010a6d;
+    background-image: url(hi.png);
+}
+h1 {
+	text-align: center;
+	width: 100%;
+	margin-left: auto;
+	font-size: 70px;
+  font-weight: 600;
+  color: #09c5ef;
+  position: absolute;
+}
